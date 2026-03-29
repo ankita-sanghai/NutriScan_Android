@@ -1,0 +1,7 @@
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/entity/FoodCacheEntity.kt
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/entity/FoodLogEntity.kt
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/NutriScanDatabase.kt
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/di/DatabaseModule.kt
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/dao/FoodCacheDao.kt
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/dao/FoodLogDao.kt
+/Users/ankitasanghai/Desktop/NutriScan/core/database/src/main/java/com/ankita/nutriscan/core/database/entity/UserGoalEntity.kt
