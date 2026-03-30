@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ankita.nutriscan.app-mergeDebugResources-57:/values-bn/values-bn.xml",
+            "outputFile": "com.ankita.nutriscan.app-mergeDebugResources-61:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "/Users/ankitasanghai/.gradle/caches/8.11.1/transforms/8b7c89301d90c77079a75a060af7becf/transformed/core-1.15.0/res/values-bn/values-bn.xml",

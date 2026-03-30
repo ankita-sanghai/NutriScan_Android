@@ -25,4 +25,11 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.hilt.android)
     ksp(libs.hilt.compiler)
+
+    // Room — all 3 needed together
+    implementation(libs.room.runtime)
+    implementation(libs.room.ktx)
+    ksp(libs.room.compiler)
+
+    implementation(libs.kotlinx.coroutines.android)
 }

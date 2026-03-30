@@ -7,6 +7,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun DiaryScreen() {
     Scaffold(

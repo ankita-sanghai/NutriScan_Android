@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ankita.nutriscan.app-mergeDebugResources-57:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.ankita.nutriscan.app-mergeDebugResources-61:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "/Users/ankitasanghai/.gradle/caches/8.11.1/transforms/7e1f51bc347633046a79998bd25b6b64/transformed/ui-release/res/values-es-rUS/values-es-rUS.xml",

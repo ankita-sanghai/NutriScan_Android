@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.ankita.nutriscan.feature.home.HomeViewModel

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ankita.nutriscan.app-mergeDebugResources-57:/values-ky/values-ky.xml",
+            "outputFile": "com.ankita.nutriscan.app-mergeDebugResources-61:/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/Users/ankitasanghai/.gradle/caches/8.11.1/transforms/4c16e00efe51ffe418d9c81baad8f481/transformed/foundation-release/res/values-ky/values-ky.xml",
